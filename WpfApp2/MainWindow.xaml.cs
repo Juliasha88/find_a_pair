@@ -124,7 +124,7 @@ namespace WpfApp2
                             Grid.Children.Add(GridList[GridList.Count - 1]);
                         }
                         else
-                        {
+                        {   
                             textBox.AppendText("Не нашли место!!!");
                         }
                     }
